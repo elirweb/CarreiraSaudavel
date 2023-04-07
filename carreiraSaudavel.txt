@@ -1,0 +1,83 @@
+                Desenvolvimento de uma Carreira saudável
+
+* Boas praticas para desenvolvimentos
+    Escrever Código Limpo
+    Dar bons nomes de variáveis, funções , methodos, Classes etc
+
+* Contexto e Regra de Negócio 
+    Participar de reuniões junto ao cliente (entendimento do negócio)
+
+* Soft Skill
+    Ter tomada de iniciativa
+    Trazer palestras ou contéudo novo referente a tecnologia para equipe
+    Apoiar outros Devs independente da posição  
+    Saber se comunicar a equipe
+
+* Arquitetura de Projetos e Padrões  
+    Entendimento e aprofundidade da arquitetura: 
+     - Singleton, Command, Build, Strategy, Template Method, Facade etc.
+     - Solid, Open Closed (SOLID) etc,
+     - Arquitetura: Evolutiva, DAL, Evento, MVC, MVVM, SOA, CQRS, Arquitetura Limpa ,Microserviços, SAGA,Hexagonal etc.
+     - Desenho de uma Arquitetura de Software (Drawio, https://excalidraw.com, https://www.websequencediagrams.com/)    
+     - Documento de Visão do projeto: Entendimento do projeto    
+
+* Tecnólogia (Frameworks) Hards Skill
+    Dominar tais Tecnologias e se aprofundar no entendimento:
+     - Angular , C#, Node js, Nest js, Docker,  SASS, Ionic, etc
+     - Banco de dados Relacional e Não Relacional: Sql Server e NoSQL
+     - ORM: Entity Framework e Micro ORM (Dapper) 
+     - Redis: Banco de dados de Cache
+     - TypeScript
+     - Javascript
+     - GraphQL 
+     - PWA: como que funciona 
+     - Mocha js e outros frameworks de teste no front end
+     - Xunit
+     - BDD, SpecFlow (Teste de Comportamento)
+     - Selenium
+     - API Rest (Aplicar boas práticas de desenvolvimento de API)
+     - Documentar uma api usando o Swagger        
+     - CI e CD: apreender como criar uma pipeline
+     - Mensageria: (Rabbit MQ) e outros brocker de Mensageria, entender PUB e SUB e como aplicar
+     - NPM e Nugget Publicar o pacote e consumir
+     - Desenvolvimento Seguro: OWASP
+     - Autenticação: Token JWT e outros provedores de Token
+     - Cloud: Azure e AWS e outros Cloud de Nuvens
+     - Observabilidade: Grafana ou outras ferramentas de coletar logs
+     - Sonar: Como configurar, como fazer bom uso
+     - WCF: protocolos de comunicação e saber consumir  
+     - Json: saber utilizar de uma correta e trafega dados com utilizando    
+     - GIT: Versionamento de Código, Resolver conflitos de merge
+     - Protocolos Web: Entender o HTTP, Https
+     - IIS: Entender o IIS como publicar uma aplicação ao servidor e vincular no Azure Devops 
+     - Estudar mais de uma linguagem de programação: JAVA, Node js
+     - Web Socket
+
+* Entrega de Valor
+    Boas Práticas de Realização de Testes (unidade,integração, regressivo)
+    Participar de homologação junto ao cliente
+    Trabalhar em outras partes do sistema
+
+* Agil
+   Scrum
+   kanbam 
+
+* Habilidades
+    Estudos nos idiomas: (Inglês e Espanhol)
+     - Escutar PodCast: SposTfy, Youtube
+     - Treinar a Escrita
+     - Praticar Fala
+     - Ir ao encontro Metuup
+
+* Projetos Pessoias
+   Desenvolver projetos Novos e Comitar no Git hub
+   Sempre manter atualizado o Linkdlen (Skill Técnica)
+   Ir a eventos não Tecnólogia (Ibirapuera, ir viajar)
+   Sempre acompanhar vagas de emprego nos portais: Apinfo, Vagas.com, Infojobs
+      
+* Mapa técnico de estudos
+    https://dev.to/glaucia86/guia-para-pessoas-desenvolvedoras-back-end-2021-o-que-eu-preciso-saber-10c6
+    https://roadmap.sh/backend
+    https://cdn5.mindmeister.com/pt/1382611817/node-js?fullscreen=1#
+    https://www.mindomo.com/pt/mindmap/c-bf77ba9d81964bb4b33ac40c11c0cee2
+    https://github.com/arthurspk/guiadevbrasil
