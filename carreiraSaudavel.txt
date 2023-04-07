@@ -74,7 +74,8 @@
    Sempre manter atualizado o Linkdlen (Skill Técnica)
    Ir a eventos não Tecnólogia (Ibirapuera, ir viajar)
    Sempre acompanhar vagas de emprego nos portais: Apinfo, Vagas.com, Infojobs
-      
+   Criar post em portugues e ingles no Linkdlen
+          
 * Mapa técnico de estudos
     https://dev.to/glaucia86/guia-para-pessoas-desenvolvedoras-back-end-2021-o-que-eu-preciso-saber-10c6
     https://roadmap.sh/backend
