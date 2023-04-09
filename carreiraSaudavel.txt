@@ -82,3 +82,25 @@
     https://cdn5.mindmeister.com/pt/1382611817/node-js?fullscreen=1#
     https://www.mindomo.com/pt/mindmap/c-bf77ba9d81964bb4b33ac40c11c0cee2
     https://github.com/arthurspk/guiadevbrasil
+    https://github.com/alura/techguide/blob/main/_data/downloadFiles/PT_BR/nodejs.md
+    https://github.com/alura/techguide/blob/main/_data/downloadFiles/PT_BR/angular.md
+    https://github.com/alura/techguide/blob/main/_data/downloadFiles/PT_BR/csharp.md
+    https://github.com/alura/techguide/blob/main/_data/downloadFiles/PT_BR/front-end.md
+    https://imasters.com.br/dotnet/testando-aplicacoes-web-com-selenium-webdriver-net-core-2-0-net-standard-2-0-e-xunit
+    https://www.mongodb.com/docs/manual/indexes/
+    https://kubernetes.io/pt-br/docs/tutorials/
+    https://www.typescriptlang.org/docs/handbook/2/mapped-types.html
+
+*Mediatr: 
+    https://www.macoratti.net/20/07/aspc_mediatr1.htm
+    https://balta.io/blog/aspnet-core-cqrs-mediator
+
+*Arquiteto das galaxias
+    https://miro.com/app/board/uXjVPs6-Ofk=/
+
+chat gpt com C#
+    https://ozpeace.hashnode.dev/how-to-integrate-chat-gpt-using-c-and-net-core
+
+Pipeline e code coverlat no azure devops
+    https://learn.microsoft.com/pt-br/dotnet/architecture/devops-for-aspnet-developers/actions-build
+    https://dotnetthoughts.net/generating-code-coverage-reports-in-dotnet-core/
