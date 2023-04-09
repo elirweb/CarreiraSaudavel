@@ -52,6 +52,7 @@
      - IIS: Entender o IIS como publicar uma aplicação ao servidor e vincular no Azure Devops 
      - Estudar mais de uma linguagem de programação: JAVA, Node js
      - Web Socket
+     - Async e Await 
 
 * Entrega de Valor
     Boas Práticas de Realização de Testes (unidade,integração, regressivo)
