@@ -53,6 +53,7 @@
      - Estudar mais de uma linguagem de programação: JAVA, Node js
      - Web Socket
      - Async e Await 
+     - Observables X Promisses
 
 * Entrega de Valor
     Boas Práticas de Realização de Testes (unidade,integração, regressivo)
@@ -99,9 +100,42 @@
 *Arquiteto das galaxias
     https://miro.com/app/board/uXjVPs6-Ofk=/
 
-chat gpt com C#
+*chat gpt com C#
     https://ozpeace.hashnode.dev/how-to-integrate-chat-gpt-using-c-and-net-core
 
-Pipeline e code coverlat no azure devops
+*Pipeline e code coverlat no azure devops
     https://learn.microsoft.com/pt-br/dotnet/architecture/devops-for-aspnet-developers/actions-build
     https://dotnetthoughts.net/generating-code-coverage-reports-in-dotnet-core/
+
+*Angular 
+    https://andrewrosario.medium.com/padr%C3%B5es-e-boas-pr%C3%A1ticas-em-angular-que-te-ajudar%C3%A3o-a-escalar-5001e544e7de
+    https://andrewrosario.medium.com/o-padr%C3%A3o-de-projeto-facade-no-angular-1784dda6e129
+
+* Bons nomes
+https://carlosschults.net/pt/como-escolher-bons-nomes/
+
+*Observable X Promisses
+      https://dev.to/kurybr/promise-ou-observable-misterios-do-javascript-4f70
+
+*Generators
+      https://dev.to/kurybr/entendendo-javascript-generators-em-3-minutos-235m
+
+*Pipe
+      https://medium.com/xp-inc/criando-pipes-no-angular-70e71968b58b
+    https://consolelog.com.br/como-construir-um-pipe-para-formatar-cpf-em-um-projeto-angular2/
+
+*Abstract Control
+      https://www.alura.com.br/artigos/como-aplicar-validacao-formularios-reativos-angular
+
+*Deploy Angular para o IIS
+      https://levelup.gitconnected.com/how-to-deploy-angular-app-to-an-iis-web-server-complete-setup-337997486423 
+
+*Code Coverage
+      https://medium.com/xp-inc/angular-cobertura-de-testes-ff97fb50620d
+      
+*Input e OutPut
+      https://andrewrosario.medium.com/injetando-componentes-no-angular-atrav%C3%A9s-de-diretivas-cae90992e83     
+      https://pt.linkedin.com/pulse/criando-um-componente-de-input-texto-gen%C3%A9rico-com-angular-castro
+      https://www.scaler.com/topics/angular/input-and-output-directives-in-angular/
+      https://code-maze.com/net-core-web-development-part12/
+      https://github.com/geeksarray/angular-nested-component-with-input-and-output-decorator
