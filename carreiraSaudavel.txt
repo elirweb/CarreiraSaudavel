@@ -140,7 +140,7 @@ https://carlosschults.net/pt/como-escolher-bons-nomes/
       https://code-maze.com/net-core-web-development-part12/
       https://github.com/geeksarray/angular-nested-component-with-input-and-output-decorator
 
-*IIS tes
+*IIS
     https://www.brunobrito.net.br/anatomia-de-uma-aplicacao-asp-net-iis-parte-i/
 
 *Permissão ao IIS
