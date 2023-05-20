@@ -1,4 +1,4 @@
-                Desenvolvimento de uma Carreira saudável
+            Desenvolvimento de uma Carreira saudável
 
 * Boas praticas para desenvolvimentos
     Escrever Código Limpo
@@ -18,7 +18,7 @@
      - Singleton, Command, Build, Strategy, Template Method, Facade etc.
      - Solid, Open Closed (SOLID) etc,
      - Arquitetura: Evolutiva, DAL, Evento, MVC, MVVM, SOA, CQRS, Arquitetura Limpa ,Microserviços, SAGA,Hexagonal etc.
-     - Desenho de uma Arquitetura de Software (Drawio, https://excalidraw.com, https://www.websequencediagrams.com/)    
+     - Desenho de uma Arquitetura de Software (Drawio, https://excalidraw.com, https://www.websequencediagrams.com/), Miro    
      - Documento de Visão do projeto: Entendimento do projeto    
 
 * Tecnólogia (Frameworks) Hards Skill
@@ -139,3 +139,16 @@ https://carlosschults.net/pt/como-escolher-bons-nomes/
       https://www.scaler.com/topics/angular/input-and-output-directives-in-angular/
       https://code-maze.com/net-core-web-development-part12/
       https://github.com/geeksarray/angular-nested-component-with-input-and-output-decorator
+
+*IIS
+    https://www.brunobrito.net.br/anatomia-de-uma-aplicacao-asp-net-iis-parte-i/
+
+*Permissão ao IIS
+    http://blog.vitorrubio.com.br/2016/12/como-dar-permissao-para-o.html
+    https://www.linkedin.com/pulse/utilizando-o-azure-devops-para-publicar-iis-uma-aplica%C3%A7%C3%A3o-guedes/?originalSubdomain=pt
+    
+  * habitos no typescipt  
+ https://hcode.com.br/blog/10-habitos-ruins-ao-usar-typescript-que-voce-deve-evitar   
+
+    Event Storming
+https://medium.com/xp-inc/event-storming-guia-b%C3%A1sico-216498f5dd2d
