@@ -66,7 +66,7 @@
 
 * Habilidades
     Estudos nos idiomas: (Inglês e Espanhol)
-     - Escutar PodCast: SposTfy, Youtube
+     - Escutar PodCast: SpoTfy, Youtube
      - Treinar a Escrita
      - Praticar Fala
      - Ir ao encontro Metuup
@@ -100,6 +100,9 @@
 *Arquiteto das galaxias
     https://miro.com/app/board/uXjVPs6-Ofk=/
 
+*Hexadonal
+    https://medium.com/tech-will/conhecendo-mais-sobre-a-arquitetura-hexagonal-com-nestjs-3ea2a85afb78
+
 *chat gpt com C#
     https://ozpeace.hashnode.dev/how-to-integrate-chat-gpt-using-c-and-net-core
 
@@ -110,7 +113,7 @@
 *Angular 
     https://andrewrosario.medium.com/padr%C3%B5es-e-boas-pr%C3%A1ticas-em-angular-que-te-ajudar%C3%A3o-a-escalar-5001e544e7de
     https://andrewrosario.medium.com/o-padr%C3%A3o-de-projeto-facade-no-angular-1784dda6e129
-
+    https://medium.com/@rafaelsabatini22/environment-din%C3%A2mico-com-angular-ci-cd-azure-devops-5818905ea5df
 * Bons nomes
 https://carlosschults.net/pt/como-escolher-bons-nomes/
 
@@ -129,6 +132,9 @@ https://carlosschults.net/pt/como-escolher-bons-nomes/
 
 *Deploy Angular para o IIS
       https://levelup.gitconnected.com/how-to-deploy-angular-app-to-an-iis-web-server-complete-setup-337997486423 
+
+CI e CD usando o Angular
+    https://medium.com/@marcelo.vismari/angular-como-configurar-um-processo-de-build-e-deploy-no-tfs-azure-devops-c1f229d4603a
 
 *Code Coverage
       https://medium.com/xp-inc/angular-cobertura-de-testes-ff97fb50620d
@@ -152,3 +158,34 @@ https://carlosschults.net/pt/como-escolher-bons-nomes/
 
     Event Storming
 https://medium.com/xp-inc/event-storming-guia-b%C3%A1sico-216498f5dd2d
+
+Arquitetura Onion 
+https://www.macoratti.net/20/05/net_onion1.htm
+https://www.macoratti.net/21/05/net_onion1.htm
+https://www.infoq.com/br/articles/onion-architecture/
+
+
+
+Desafios tecnicos:
+https://github.com/BrSoftMakers/desafio-desenvolvedor-senior
+https://eltonminetto.dev/post/2020-12-18-dicas-desafio-tecnico/
+https://www.conventionalcommits.org/pt-br/v1.0.0/
+https://github.com/PicPay/picpay-desafio-backend
+
+Vagas.com
+https://github.com/VAGAS/desafio-tecnico/blob/master/desafio-tecnico.md
+https://github.com/VAGAS/desafio-tecnico
+
+
+padrão para comentario de codigo para o github
+feat: [descrição da solução que foi desenvolvida (feature nova)]
+fix: [descrição da solução do (bug)]
+test: [descrição da solução do (projeto test)]
+
+nome branch
+feature/[codigo card-titulo]
+exemplo:
+feature/6571-authenticacao
+feature/6572-doc.Readme
+
+pagina de exemplo de comentarios no commits: https://platform.uno/docs/articles/uno-development/git-conventional-commits.html
