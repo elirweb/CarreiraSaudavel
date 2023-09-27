@@ -36,7 +36,7 @@
      - BDD, SpecFlow (Teste de Comportamento)
      - Selenium
      - API Rest (Aplicar boas práticas de desenvolvimento de API)
-     - Documentar uma api usando o Swagger        
+     - Documentar api usando o Swagger        
      - CI e CD: apreender como criar uma pipeline
      - Mensageria: (Rabbit MQ) e outros brocker de Mensageria, entender PUB e SUB e como aplicar
      - NPM e Nugget Publicar o pacote e consumir
@@ -182,6 +182,11 @@ feat: [descrição da solução que foi desenvolvida (feature nova)]
 fix: [descrição da solução do (bug)]
 test: [descrição da solução do (projeto test)]
 
+Devops SRE
+https://www.youtube.com/watch?v=an8SrFtJBdM
+
+
+https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90
 nome branch
 feature/[codigo card-titulo]
 exemplo:
@@ -189,3 +194,14 @@ feature/6571-authenticacao
 feature/6572-doc.Readme
 
 pagina de exemplo de comentarios no commits: https://platform.uno/docs/articles/uno-development/git-conventional-commits.html
+
+kubernetes
+https://github.com/FIAP/POSTECH_SOAT_KUBERNETES_2/tree/main/aula_8/secrets
+
+Simulados Certificação
+https://learn.microsoft.com/en-us/certifications/exams/az-204/practice/assessment?assessment-type=practice&assessmentId=35&source=docs
+
+roadmap Arquitetura
+https://roadmap.sh/software-architect
+https://roadmap.sh/software-design-architecture
+https://roadmap.sh/backend
