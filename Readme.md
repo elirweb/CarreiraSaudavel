@@ -9,13 +9,13 @@
 # Tópicos
 
 **[Inglês](#Inglês)**</BR>
-**[Tecnológias](#Tecnológias)**.
-**[Skill](#Skill)**.
-**[Hard (falta desenvolver)]()**.
-**[Desafios](#Desafios)**.
-**[Links](#Links)**.
-**[Simulados](#Simulados)**.
-**[Windows](#Windows)**.
+**[Tecnológias](#Tecnológias)**</BR>
+**[Skill](#Skill)**</BR>
+**[Hard (falta desenvolver)]()**</BR>
+**[Desafios](#Desafios)**</BR>
+**[Links](#Links)**</BR>
+**[Simulados](#Simulados)**</BR>
+**[Windows](#Windows)**</BR>
 **[Estilo de Vida / ou vida saudável (falta desenvolver)]()**
 
 # Inglês
