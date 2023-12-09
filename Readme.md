@@ -8,16 +8,15 @@
 
 # Tópicos
 
-**[EFF](#Inglês)**
-[Inglês](https://duckduckgo.com)
-Tecnológias
-Soft Skill
-Hard Skill (falta desenvolver)
-Desafios Técnicos
-Links Relevantes
-Simulados para o Certificados
-Resolução de problemas no windows
-Estilo de Vida / ou vida saudável (falta desenvolver)
+**[Inglês](#Inglês)**
+**[Tecnológias](#Tecnológias)**
+**[Skill](# Soft Skill)**
+**[Hard Skill (falta desenvolver)]()**
+**[Desafios](# Desafios tecnicos)**
+**[LinksRelevantes](# Links relevantes)**
+**[Simulados](# Simulados para o Certificados)**
+**[Windows](# Resolução de problema no windows)**
+**[Estilo de Vida / ou vida saudável (falta desenvolver)]()**
 
 # Inglês
 
@@ -224,7 +223,7 @@ Estilo de Vida / ou vida saudável (falta desenvolver)
 
         Git Conventional: https://platform.uno/docs/articles/uno-development/git-conventional-commits.html
 
-# Desafios tecnicos:
+# Desafios tecnicos
 
         https://github.com/BrSoftMakers/desafio-desenvolvedor-senior
         https://eltonminetto.dev/post/2020-12-18-dicas-desafio-tecnico/
