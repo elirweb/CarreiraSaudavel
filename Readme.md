@@ -10,7 +10,7 @@
 
 **[Inglês](#Inglês)**
 **[Tecnológias](#Tecnológias)**
-**[Skill](# Soft Skill)**
+**[Soft Skill](#Skill)**
 **[Hard Skill (falta desenvolver)]()**
 **[Desafios](# Desafios tecnicos)**
 **[LinksRelevantes](# Links relevantes)**
