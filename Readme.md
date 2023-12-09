@@ -8,8 +8,8 @@
 
 # Tópicos
 
-**[Inglês](#Inglês)**
-**[Tecnológias](#Tecnológias)**
+**[Inglês](#Inglês)**.
+**[Tecnológias](#Tecnológias)**.
 **[Soft Skill](#Soft Skill)**
 **[Hard Skill (falta desenvolver)]()**
 **[Desafios](# Desafios tecnicos)**
