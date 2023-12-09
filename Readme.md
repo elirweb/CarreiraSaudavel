@@ -1,6 +1,6 @@
             Desenvolvimento de uma Carreira saudável
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20Pronto para decolar?&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20EMDESENVOLVIMENTO?&color=GREEN&style=for-the-badge)
 
 # Introdução:
 
@@ -11,10 +11,11 @@
     Inglês
     Tecnológias
     Soft Skill
-    Hard Skill
+    Hard Skill (falta desenvolver)
     Desafios Técnicos
-    Simulados Certificações
-    Estilo de Vida / ou vida saudável
+    Simulados para o Certificados
+    Resolução de problemas no windows
+    Estilo de Vida / ou vida saudável (falta desenvolver)
 
 # Inglês
 
@@ -28,52 +29,52 @@
 
 # Tecnológias
 
-- Framework de Agilidade
-  Agil
-  Scrum
-  kanbam
+    Framework de Agilidade
+        Agil
+        Scrum
+        kanbam
 
-- Dominar tais tenocnologias abaixo para ter aprofundide no conhecimento:
-  Angular , C#, Node js, Nest js, Docker, SASS, Ionic, etc
-  Banco de dados Relacional e Não Relacional: Sql Server e NoSQL
-  ORM: Entity Framework e Micro ORM (Dapper)
-  Redis: Banco de dados de Cache
-  TypeScript
-  Javascript
-  GraphQL
-  PWA: como que funciona
-  Mocha js e outros frameworks de teste no front end
-  Xunit
-  BDD, SpecFlow (Teste de Comportamento)
-  TDD
-  Selenium
-  API Rest (Aplicar boas práticas de desenvolvimento de API)
-  Documentar api usando o Swagger
-  CI e CD: apreender como criar uma pipeline
-  Mensageria: (Rabbit MQ) e outros brocker de Mensageria, entender PUB e SUB e como aplicar
-  NPM e Nugget Publicar o pacote e consumir
-  Desenvolvimento Seguro: OWASP
-  Autenticação: Token JWT e outros provedores de Token
-  Cloud: Azure e AWS e outros Cloud de Nuvens
-  Observabilidade: Grafana ou outras ferramentas de coletar logs
-  Sonar: Como configurar, como fazer bom uso
-  WCF: protocolos de comunicação e saber consumir
-  Json: saber utilizar de uma correta e trafega dados com utilizando
-  GIT: Versionamento de Código, Resolver conflitos de merge
-  Protocolos Web: Entender o HTTP, Https
-  IIS: Entender o IIS como publicar uma aplicação ao servidor e vincular no Azure Devops
-  Estudar mais de uma linguagem de programação: JAVA, Node js
-  Web Socket
-  Async e Await
-  Observables X Promisses
+    Dominar tais tenocnologias abaixo para ter aprofundide no conhecimento:
+        Angular , C#, Node js, Nest js, Docker, SASS, Ionic, etc
+        Banco de dados Relacional e Não Relacional: Sql Server e NoSQL
+        ORM: Entity Framework e Micro ORM (Dapper)
+        Redis: Banco de dados de Cache
+        TypeScript
+        Javascript
+        GraphQL
+        PWA: como que funciona
+        Mocha js e outros frameworks de teste no front end
+        Xunit
+        BDD, SpecFlow (Teste de Comportamento)
+        TDD
+        Selenium
+        API Rest (Aplicar boas práticas de desenvolvimento de API)
+        Documentar api usando o Swagger
+        CI e CD: apreender como criar uma pipeline
+        Mensageria: (Rabbit MQ) e outros brocker de Mensageria, entender PUB e SUB e como aplicar
+        NPM e Nugget Publicar o pacote e consumir
+        Desenvolvimento Seguro: OWASP
+        Autenticação: Token JWT e outros provedores de Token
+        Cloud: Azure e AWS e outros Cloud de Nuvens
+        Observabilidade: Grafana ou outras ferramentas de coletar logs
+        Sonar: Como configurar, como fazer bom uso
+        WCF: protocolos de comunicação e saber consumir
+        Json: saber utilizar de uma correta e trafega dados com utilizando
+        GIT: Versionamento de Código, Resolver conflitos de merge
+        Protocolos Web: Entender o HTTP, Https
+        IIS: Entender o IIS como publicar uma aplicação ao servidor e vincular no Azure Devops
+        Estudar mais de uma linguagem de programação: JAVA, Node js
+        Web Socket
+        Async e Await
+        Observables X Promisses
 
-  - Padrões de Projeto
-    Singleton, Command, Build, Strategy, Template Method, Facade etc.
-    Solid, Open Closed (SOLID) etc,
-    Arquitetura: Evolutiva, DAL, Evento, MVC, MVVM, SOA, CQRS, Arquitetura Limpa ,Microserviços, SAGA,Hexagonal etc.
-    Desenho de uma Arquitetura de Software (Drawio, https://excalidraw.com, https://www.websequencediagrams.com/), Miro
-    Documento de Visão do projeto: Entendimento do projeto
-    Entendimento e aprofundidade da arquitetura:
+    Padrões de Projeto
+        Singleton, Command, Build, Strategy, Template Method, Facade etc.
+        Solid, Open Closed (SOLID) etc,
+        Arquitetura: Evolutiva, DAL, Evento, MVC, MVVM, SOA, CQRS, Arquitetura Limpa ,Microserviços, SAGA,Hexagonal etc.
+        Desenho de uma Arquitetura de Software (Drawio, https://excalidraw.com, https://www.websequencediagrams.com/), Miro
+        Documento de Visão do projeto: Entendimento do projeto
+        Entendimento e aprofundidade da arquitetura:
 
 # Soft Skill
 
@@ -93,12 +94,12 @@
     - Participar de homologação junto ao cliente
     - Trabalhar em outras partes do sistema
 
-- Projetos Pessoias
-  Desenvolver projetos Novos e Comitar no Git hub
-  Sempre manter atualizado o Linkdlen (Skill Técnica)
-  Ir a eventos não Tecnólogia (Ibirapuera, ir viajar)
-  Sempre acompanhar vagas de emprego nos portais: Apinfo, Vagas.com, Infojobs
-  Criar post em portugues e ingles no Linkdlen
+    - Projetos Pessoias
+        Desenvolver projetos Novos e Comitar no Git hub
+        Sempre manter atualizado o Linkdlen (Skill Técnica)
+        Ir a eventos não Tecnólogia (Ibirapuera, ir viajar)
+        Sempre acompanhar vagas de emprego nos portais: Apinfo, Vagas.com, Infojobs
+        Criar post em portugues e ingles no Linkdlen
 
 # Links relevantes
 
@@ -143,41 +144,34 @@
             https://carlosschults.net/pt/como-escolher-bons-nomes/
 
         - Observable X Promisses
-
-https://dev.to/kurybr/promise-ou-observable-misterios-do-javascript-4f70
+            https://dev.to/kurybr/promise-ou-observable-misterios-do-javascript-4f70
 
         - Generators
-
-https://dev.to/kurybr/entendendo-javascript-generators-em-3-minutos-235m
+            https://dev.to/kurybr/entendendo-javascript-generators-em-3-minutos-235m
 
         - Pipe
-
-https://medium.com/xp-inc/criando-pipes-no-angular-70e71968b58b
-https://consolelog.com.br/como-construir-um-pipe-para-formatar-cpf-em-um-projeto-angular2/
-https://consolelog.com.br/filtro-de-tabela-utilizando-pipetransform-e-debouncetime-angular2/
+            https://medium.com/xp-inc/criando-pipes-no-angular-70e71968b58b
+            https://consolelog.com.br/como-construir-um-pipe-para-formatar-cpf-em-um-projeto-angular2/
+            https://consolelog.com.br/filtro-de-tabela-utilizando-pipetransform-e-debouncetime-angular2/
 
         - Abstract Control
-
-https://www.alura.com.br/artigos/como-aplicar-validacao-formularios-reativos-angular
+            https://www.alura.com.br/artigos/como-aplicar-validacao-formularios-reativos-angular
 
         - Deploy Angular para o IIS
-
-https://levelup.gitconnected.com/ how-to-deploy-angular-app-to-an-iis-web-server-complete-setup-337997486423
+            https://levelup.gitconnected.com/ how-to-deploy-angular-app-to-an-iis-web-server-complete-setup-337997486423
 
         - CI e CD usando o Angular
             https://medium.com/@marcelo.vismari/angular-como-configurar-um-processo-de-build-e-deploy-no-tfs-azure-devops-c1f229d4603a
 
         - Code Coverage
-
-https://medium.com/xp-inc/angular-cobertura-de-testes-ff97fb50620d
+            https://medium.com/xp-inc/angular-cobertura-de-testes-ff97fb50620d
 
         - Input e OutPut
-
-https://andrewrosario.medium.com/ injetando-componentes-no-angular-atrav%C3%A9s-de-diretivas-cae90992e83     
-       https://pt.linkedin.com/pulse/ criando-um-componente-de-input-texto-gen%C3%A9rico-com-angular-castro
-       https://www.scaler.com/topics/angular/input-and-output-directives-in-angular/
-       https://code-maze.com/net-core-web-development-part12/
-       https://github.com/geeksarray/angular-nested-component-with-input-and-output-decorator
+            https://andrewrosario.medium.com/ injetando-componentes-no-angular-atrav%C3%A9s-de-diretivas-cae90992e83     
+                   https://pt.linkedin.com/pulse/ criando-um-componente-de-input-texto-gen%C3%A9rico-com-angular-castro
+                   https://www.scaler.com/topics/angular/input-and-output-directives-in-angular/
+                   https://code-maze.com/net-core-web-development-part12/
+                   https://github.com/geeksarray/angular-nested-component-with-input-and-output-decorator
 
         - IIS
             https://www.brunobrito.net.br/anatomia-de-uma-aplicacao-asp-net-iis-parte-i/
@@ -238,7 +232,7 @@ https://andrewrosario.medium.com/ injetando-componentes-no-angular-atrav%C3%A9s-
         https://github.com/VAGAS/desafio-tecnico
         https://guiadeti.com.br/30-sites-de-desafios-para-treinar-programacao/
 
-# Simulados Certificados
+# Simulados para o Certificados
 
     Az-204
     https://learn.microsoft.com/en-us/certifications/exams/az-204/practice/assessment?assessment-type=practice&assessmentId=35&source=docs
