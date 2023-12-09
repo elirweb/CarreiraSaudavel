@@ -10,7 +10,7 @@
 
 **[Inglês](#Inglês)**.
 **[Tecnológias](#Tecnológias)**.
-**[Skill](#Soft Skill)**
+**[Skill](#Skill)**.
 **[Hard Skill (falta desenvolver)]()**
 **[Desafios](# Desafios tecnicos)**
 **[LinksRelevantes](# Links relevantes)**
@@ -77,7 +77,7 @@
         Documento de Visão do projeto: Entendimento do projeto
         Entendimento e aprofundidade da arquitetura:
 
-# Soft Skill
+# Skill
 
     - Ter tomada de iniciativa
     - Trazer palestras ou contéudo novo referente a tecnologia para equipe
