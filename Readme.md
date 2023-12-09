@@ -8,7 +8,7 @@
 
 # Tópicos
 
-    [Inglês](#Inglês)
+    * [Inglês](#Inglês)
     Tecnológias
     Soft Skill
     Hard Skill (falta desenvolver)
