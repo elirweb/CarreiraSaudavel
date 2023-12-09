@@ -8,7 +8,7 @@
 
 # Tópicos
 
-    Inglês(https://duckduckgo.com)
+    [Inglês](https://duckduckgo.com)
     Tecnológias
     Soft Skill
     Hard Skill (falta desenvolver)
