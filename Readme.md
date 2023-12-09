@@ -8,11 +8,12 @@
 
 # Tópicos
 
-    Inglês
+    [Inglês](#Inglês)
     Tecnológias
     Soft Skill
     Hard Skill (falta desenvolver)
     Desafios Técnicos
+    Links Relevantes
     Simulados para o Certificados
     Resolução de problemas no windows
     Estilo de Vida / ou vida saudável (falta desenvolver)
