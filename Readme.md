@@ -8,7 +8,7 @@
 
 # Tópicos
 
-**[Inglês](#Inglês)**.
+**[Inglês](#Inglês)**</BR>
 **[Tecnológias](#Tecnológias)**.
 **[Skill](#Skill)**.
 **[Hard (falta desenvolver)]()**.
