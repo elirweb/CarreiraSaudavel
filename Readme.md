@@ -11,11 +11,11 @@
 **[Inglês](#Inglês)**.
 **[Tecnológias](#Tecnológias)**.
 **[Skill](#Skill)**.
-**[Hard Skill (falta desenvolver)]()**
-**[Desafios](# Desafios tecnicos)**
-**[LinksRelevantes](# Links relevantes)**
-**[Simulados](# Simulados para o Certificados)**
-**[Windows](# Resolução de problema no windows)**
+**[Hard (falta desenvolver)]()**.
+**[Desafios](# Desafios)**.
+**[Links](# Links)**.
+**[Simulados](# Simulados)**.
+**[Windows](# Windows)**.
 **[Estilo de Vida / ou vida saudável (falta desenvolver)]()**
 
 # Inglês
@@ -102,7 +102,7 @@
         Sempre acompanhar vagas de emprego nos portais: Apinfo, Vagas.com, Infojobs
         Criar post em portugues e ingles no Linkdlen
 
-# Links relevantes
+# Links
 
     - Mapa técnico de estudos
         https://dev.to/glaucia86/guia-para-pessoas-desenvolvedoras-back-end-2021-o-que-eu-preciso-saber-10c6
@@ -223,7 +223,7 @@
 
         Git Conventional: https://platform.uno/docs/articles/uno-development/git-conventional-commits.html
 
-# Desafios tecnicos
+# Desafios
 
         https://github.com/BrSoftMakers/desafio-desenvolvedor-senior
         https://eltonminetto.dev/post/2020-12-18-dicas-desafio-tecnico/
@@ -233,12 +233,12 @@
         https://github.com/VAGAS/desafio-tecnico
         https://guiadeti.com.br/30-sites-de-desafios-para-treinar-programacao/
 
-# Simulados para o Certificados
+# Simulados
 
     Az-204
     https://learn.microsoft.com/en-us/certifications/exams/az-204/practice/assessment?assessment-type=practice&assessmentId=35&source=docs
 
-# Resolução de problema no windows
+# Windows
 
     - Aparecendo a mensagem de pasta ou arquivo corrompido
         Como recuperar
