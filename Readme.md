@@ -4,7 +4,7 @@
 
 # Introdução:
 
-    - Mini material de dicas valiosas de estudo para complementar a carreira do Dev, para ajudar na sua carreira e na vida pessoal.
+    - Mini material com dicas valiosas de estudo para complementar a carreira do Dev, para ajudar na sua carreira e na vida pessoal.
 
 # Tópicos
 
