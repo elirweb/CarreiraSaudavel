@@ -12,10 +12,10 @@
 **[Tecnológias](#Tecnológias)**.
 **[Skill](#Skill)**.
 **[Hard (falta desenvolver)]()**.
-**[Desafios](# Desafios)**.
-**[Links](# Links)**.
-**[Simulados](# Simulados)**.
-**[Windows](# Windows)**.
+**[Desafios](#Desafios)**.
+**[Links](#Links)**.
+**[Simulados](#Simulados)**.
+**[Windows](#Windows)**.
 **[Estilo de Vida / ou vida saudável (falta desenvolver)]()**
 
 # Inglês
