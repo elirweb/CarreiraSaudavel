@@ -1,4 +1,4 @@
-      <p align="center">Desenvolvimento de uma Carreira saudável</p>
+      Desenvolvimento de uma Carreira saudável
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=ElirWeb%20EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
@@ -8,7 +8,7 @@
 
 # Tópicos
 
-    <a href="#Inglês">Inglês</a>
+    Inglês(https://duckduckgo.com)
     Tecnológias
     Soft Skill
     Hard Skill (falta desenvolver)
