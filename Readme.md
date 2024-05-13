@@ -68,14 +68,17 @@
         Web Socket
         Async e Await
         Observables X Promisses
+        Micro front End
 
     Padrões de Projeto
         Singleton, Command, Build, Strategy, Template Method, Facade etc.
         Solid, Open Closed (SOLID) etc,
         Arquitetura: Evolutiva, DAL, Evento, MVC, MVVM, SOA, CQRS, Arquitetura Limpa ,Microserviços, SAGA,Hexagonal etc.
-        Desenho de uma Arquitetura de Software (Drawio, https://excalidraw.com, https://www.websequencediagrams.com/), Miro
-        Documento de Visão do projeto: Entendimento do projeto
+        Desenho de uma Arquitetura de Software (Drawio, https://excalidraw.com, https://www.websequencediagrams.com/ https://www.lucidchart.com/pages/), Miro
+        Documento de Visão do projeto: Entendimento do projeto, C4,
+        TOGAF: https://www.opengroup.org/togaf
         Entendimento e aprofundidade da arquitetura:
+        https://eximia.co/elemarjr/
 
 # Skill
 
@@ -118,7 +121,7 @@
         https://www.mongodb.com/docs/manual/indexes/
         https://kubernetes.io/pt-br/docs/tutorials/
         https://www.typescriptlang.org/docs/handbook/2/mapped-types.html
-
+    https://medium.com/@rafaasimi/formul%C3%A1rios-reativos-data-driven-fe90d6c85640
         - Mediatr:
             https://www.macoratti.net/20/07/aspc_mediatr1.htm
             https://balta.io/blog/aspnet-core-cqrs-mediator
@@ -195,6 +198,7 @@
     - Devops SRE
         https://www.youtube.com/watch?v=an8SrFtJBdM
         https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90
+        https://docs.github.com/pt/actions
 
     - kubernetes
         https://github.com/FIAP/POSTECH_SOAT_KUBERNETES_2/tree/main/aula_8/secrets
@@ -203,6 +207,9 @@
         https://roadmap.sh/software-architect
         https://roadmap.sh/software-design-architecture
         https://roadmap.sh/backend
+        https://learn.microsoft.com/en-us/azure/architecture/
+        https://microservices.io/
+        https://arquiteturadesoftware.online/
 
 
     - Terraform
@@ -222,6 +229,25 @@
                 feature/6572-doc.Readme
 
         Git Conventional: https://platform.uno/docs/articles/uno-development/git-conventional-commits.html
+
+    Sonar com GitLab
+    	https://medium.com/@cristianvitortrucco/utilizando-o-sonarqube-e-10-minutos-aa9de5749fb3
+        docker run -d --name sonarqube -p 9000:9000 sonarqube
+        https://medium.com/@kenerrydeveloper/monitoramento-de-m%C3%A9tricas-sonarqube-docker-e-coverlet-762dc473f2
+        https://medium.com/@thiagoloureiro/an%C3%A1lise-de-c%C3%B3digo-com-sonarqube-docker-net-core-aad17147486a
+        https://dev.to/jhonywalkeer/github-actions-e-sonarcloud-validando-o-codigo-41b9
+
+    Rabbit Mq
+    https://tryrabbitmq.com/
+
+    C4 Model
+
+        https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=C4Model&width=11&height=8.5&unit=inch&gallery=/repository/00af6def-9277-405f-9cdc-1a12d80f66e2.xml
+        https://www.zup.com.br/blog/c4-model
+
+        C4-Model: por que documentar a arquitetura dos seus projetos? | Zup
+        Aprenda o que é C4-model e porque usar esse modelo para documentar a arquitetura, além do que temos feito nos produtos Open Source da Zup.
+        www.zup.com.br
 
 # Desafios
 
